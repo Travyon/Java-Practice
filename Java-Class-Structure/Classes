@@ -1,0 +1,14 @@
+- Java is an object-oriented programming language, which
+means it consists of classes and their methods
+
+    Ex:
+    * Class of students that have methods to solve a problem
+
+
+Classes can be:
+- public
+- private
+- protected
+depending on the intended scope(whatever is inside curly braces of class)
+    * declared by using on of those keywords
+    * followed by 'class' and the name of class
