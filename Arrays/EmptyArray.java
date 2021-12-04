@@ -15,7 +15,7 @@ public class EmptyArray {
 
        //Populating an empty array
        nums[0] = 100;
-       nums[1] = 59;
+       nums[1] = 150;
        nums[2] = 78;
        nums[3] = 56;
        nums[4] = 99;
