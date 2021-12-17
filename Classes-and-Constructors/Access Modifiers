@@ -1,0 +1,9 @@
+Public - access level modifier that allows other
+classes to interact with that class. (accessible from 
+anywhere in the program)
+
+Protected - package and child class can interact with that class
+
+no modifier - only package can interact with that class.
+
+private - nothing can interact with that class (only accessible in that class)

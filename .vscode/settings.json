@@ -1,6 +1,10 @@
 {
     "java.project.sourcePaths": [
         "User-Defined-Methods",
-        "String-Methods"
+        "String-Methods",
+        "Loops",
+        "Arrays",
+        "2D-Arrays",
+        "Classes-and-Constructors"
     ]
 }
