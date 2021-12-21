@@ -3,8 +3,9 @@
         "User-Defined-Methods",
         "String-Methods",
         "Loops",
+        "Classes-and-Constructors",
         "Arrays",
         "2D-Arrays",
-        "Classes-and-Constructors"
+        "Object-State-and-Behavior/Creating-instance-Fields"
     ]
 }
