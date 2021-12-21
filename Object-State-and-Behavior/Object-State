@@ -1,0 +1,4 @@
+State - refers to the attributes(feature, characteristic, trait, action) of an object
+
+State can be defined using Object(instance) variables, or
+Object(instance) fields, which are placed inside of a class.
