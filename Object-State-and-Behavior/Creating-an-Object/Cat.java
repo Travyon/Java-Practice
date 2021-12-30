@@ -5,14 +5,14 @@
  * 
  * To create an object:
  * declare a variable in the 'main()' method 
- * with the class name as the data type and set
+ * with the class name as the data type 
  * 
  * 
  * Ex: Animal dog;
  * 
  * and set the value to a call to the class' constructor
  * 
- * Ex: new Animal();
+ * Ex: Animal dog = new Animal();
  */
 
  /**
@@ -27,7 +27,7 @@
 class Cat {
     // Class constructor
     public Cat(){
-        // Instructions for creating an instance of Cat gpoes here:
+        // Instructions for creating an instance of Cat goes here:
     }
 
     public static void main(String[] args){

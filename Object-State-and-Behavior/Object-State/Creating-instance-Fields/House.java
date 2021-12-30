@@ -5,7 +5,7 @@
 
 class House {
    //Object(instance) fields
-   String door = "slam!";
+   String door = "brown";
    int lights = 20;
 
    public House(){
@@ -22,7 +22,8 @@ class House {
          */
 
          // Access instance variable 'door' of an object 'house';
-        System.out.println(myHouse.door); // Prints: slam!
+        System.out.println(myHouse.door); // Prints: brown
+        System.out.println(myHouse.lights); // Prints: 20
     }
     
 }

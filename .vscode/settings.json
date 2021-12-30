@@ -2,10 +2,12 @@
     "java.project.sourcePaths": [
         "User-Defined-Methods",
         "String-Methods",
+        "Object-State-and-Behavior/Object-Behavior/Invoking-Non-static-method",
+        "Object-State-and-Behavior/Object-Behavior/.toString-Method",
         "Loops",
         "Classes-and-Constructors",
         "Arrays",
         "2D-Arrays",
-        "Object-State-and-Behavior/Creating-instance-Fields"
+        "Object-State-and-Behavior/Object-Behavior/toString-Method"
     ]
 }
